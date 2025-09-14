@@ -28,7 +28,7 @@ Below is the list of labs covered in this course:
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/NLP_Lab.git
+git clone https://github.com/pdz1804/NLP_Lab.git
 cd NLP_Lab
 ```
 
